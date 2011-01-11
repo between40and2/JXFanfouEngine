@@ -41,6 +41,13 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
+	02377B9012DC5B6F00D42C6E /* README */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{54, 0}";
+			sepNavVisRange = "{0, 54}";
+		};
+	};
 	1D6058900D05DD3D006BFB54 /* JXFanfouEngine */ = {
 		activeExec = 0;
 		executables = (
@@ -51,6 +58,9 @@
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 02377B8212DC5AA400D42C6E /* JXFanfouEngine */;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* JXFanfouEngine */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* JXFanfouEngine */,
+		);
 		codeSenseManager = 02377B8E12DC5AA900D42C6E /* Code sense */;
 		executables = (
 			02377B8212DC5AA400D42C6E /* JXFanfouEngine */,
